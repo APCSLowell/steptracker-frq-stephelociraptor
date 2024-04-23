@@ -32,6 +32,7 @@ public class StepTracker
   }
   else {
    return (double)totalSteps/totalDays;
+  }
 
  }
 } 
